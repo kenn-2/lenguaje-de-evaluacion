@@ -1,0 +1,101 @@
+h3, h4, h5 {
+    text-align: center;
+}
+
+h5 {
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: white;
+    font-size: 15px; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f1e8; 
+}
+.sedes{
+    text-align: center;
+    color: #6e4b3d;
+
+
+}
+.ben{
+    color: darkgoldenrod;
+}
+p {
+    background-color:burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    color: black;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    width: 70%;
+    background-color: white;
+}
+
+.name {
+    background-color:darkgoldenrod; 
+}
+
+.beneficios {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.beneficios td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.beneficios tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.shad, .call {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+footer {
+    background-color: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    color:chocolate
+}
+
+
+header {
+    background-color: #6e4b3d; 
+    color: #fff; 
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul li a {
+    color: #fff; 
+    text-decoration: none;
+}
+.ubicaciones{
+    text-decoration: dotted;
+    color:peru
+}
